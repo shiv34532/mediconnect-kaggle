@@ -1,0 +1,10 @@
+# Ignore nested or duplicate project folders that are separate repos
+MediConnect/
+mediconnect-kaggle/
+
+# Typical ignores
+.vscode/
+__pycache__/
+*.pyc
+.env
+.DS_Store
