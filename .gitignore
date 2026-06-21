@@ -1,6 +1,5 @@
 # Ignore nested or duplicate project folders that are separate repos
 MediConnect/
-mediconnect-kaggle/
 
 # Typical ignores
 .vscode/
